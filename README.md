@@ -1,5 +1,7 @@
 ### Hi there, I'm Gauravsingh. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" />
 
+<hr>
+
 ### Languages and Tools:
 
 <a href="https://python.org" /><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
