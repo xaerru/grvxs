@@ -1,7 +1,4 @@
 ### Hi there, I'm Gauravsingh. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" />
-I am a self-taught developer from India.
-<hr>
-
 
 ### Languages and Tools:
 
